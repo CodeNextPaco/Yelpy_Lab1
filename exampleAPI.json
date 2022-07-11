@@ -1,0 +1,861 @@
+{
+    "businesses": [
+        {
+            "id": "25KGeqGCQ2NGUT6217hF8Q",
+            "alias": "amsterdam-café-san-francisco-2",
+            "name": "Amsterdam Café",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TFqfv5y6QyPYLi-q0q5YhQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/amsterdam-caf%C3%A9-san-francisco-2?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 195,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                },
+                {
+                    "alias": "modern_european",
+                    "title": "Modern European"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.78625,
+                "longitude": -122.41857
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "930 Geary St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94109",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "930 Geary St",
+                    "San Francisco, CA 94109"
+                ]
+            },
+            "phone": "+14155291527",
+            "display_phone": "(415) 529-1527"
+        },
+        {
+            "id": "cYRTXu7jknjwW7w0mEUpmA",
+            "alias": "nizarios-pizza-san-francisco-2",
+            "name": "Nizario's Pizza",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Tr-hWtYUFVNCeQel8p7TbA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nizarios-pizza-san-francisco-2?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 659,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.78149,
+                "longitude": -122.46067
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "3840 Geary Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3840 Geary Blvd",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14157527777",
+            "display_phone": "(415) 752-7777"
+        },
+        {
+            "id": "El1fNeBVBglXlZtFuq4SWA",
+            "alias": "saffron-grill-san-francisco",
+            "name": "Saffron Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/00KVIrBzG9Yj5uepGDVQWw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/saffron-grill-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 553,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.776823,
+                "longitude": -122.437746
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1279 Fulton St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1279 Fulton St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14155675100",
+            "display_phone": "(415) 567-5100"
+        },
+        {
+            "id": "smceLM-VDB5jkILB6OSSvg",
+            "alias": "bambinos-ristorante-san-fransico-2",
+            "name": "Bambino's Ristorante",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7ttnzyuXmXoGO1Q8-RRZvA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bambinos-ristorante-san-fransico-2?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 595,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.76512,
+                "longitude": -122.45011
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "945 Cole St",
+                "address2": "",
+                "address3": "",
+                "city": "San Fransico",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "945 Cole St",
+                    "San Fransico, CA 94117"
+                ]
+            },
+            "phone": "+14157311343",
+            "display_phone": "(415) 731-1343"
+        },
+        {
+            "id": "k96DVqIsqpuCTWb-X2hXJg",
+            "alias": "mizutani-sushi-bar-san-francisco",
+            "name": "Mizutani Sushi Bar",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x6AMoGYqmlA8UdT2A3BaFw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mizutani-sushi-bar-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 206,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7851982116699,
+                "longitude": -122.464859008789
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4406 California St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4406 California St",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14156683288",
+            "display_phone": "(415) 668-3288"
+        },
+        {
+            "id": "n-ZuXqDouMCbvYsP1kDhqA",
+            "alias": "wok-station-san-francisco-2",
+            "name": "Wok Station",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/32Mg3Wizx6fVhyV__qlJSQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wok-station-san-francisco-2?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 304,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7635202819256,
+                "longitude": -122.481261156499
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2154 Irving St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2154 Irving St",
+                    "San Francisco, CA 94122"
+                ]
+            },
+            "phone": "+14156389998",
+            "display_phone": "(415) 638-9998"
+        },
+        {
+            "id": "IHcOOCDt_NOENttBE7lWSg",
+            "alias": "phuket-thai-restaurant-san-francisco",
+            "name": "Phuket Thai Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZNoPSIMYkteyFrNcqGmwUQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/phuket-thai-restaurant-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 162,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.77118,
+                "longitude": -122.43669
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "248 Divisadero St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "248 Divisadero St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14158648584",
+            "display_phone": "(415) 864-8584"
+        },
+        {
+            "id": "WKBAkKgeqJ9aCoexvpNUeA",
+            "alias": "star-india-restaurant-san-francisco-2",
+            "name": "Star India Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jU-crviXwcTTi8CLnFu_Yg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/star-india-restaurant-san-francisco-2?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 991,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "pakistani",
+                    "title": "Pakistani"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.78093,
+                "longitude": -122.45935
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3721 Geary Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3721 Geary Blvd",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14156684466",
+            "display_phone": "(415) 668-4466"
+        },
+        {
+            "id": "ZD5-5Gu44WrcsYtw7qMgiw",
+            "alias": "palmyra-san-francisco",
+            "name": "Palmyra",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lzA8-NwF19Z4uLFDO5cl2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/palmyra-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 961,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "syrian",
+                    "title": "Syrian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.771851,
+                "longitude": -122.433937
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "700 Haight St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "700 Haight St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14158964172",
+            "display_phone": "(415) 896-4172"
+        },
+        {
+            "id": "H7lIfefUVP2YBhJZV3w7Eg",
+            "alias": "blue-fin-sushi-and-lounge-san-francisco",
+            "name": "Blue Fin Sushi & Lounge",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QvCJndJryg2vGqrkzOoqVw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blue-fin-sushi-and-lounge-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 592,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "lounges",
+                    "title": "Lounges"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.78254,
+                "longitude": -122.47878
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1814 Clement St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94121",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1814 Clement St",
+                    "San Francisco, CA 94121"
+                ]
+            },
+            "phone": "+14153872441",
+            "display_phone": "(415) 387-2441"
+        },
+        {
+            "id": "H4V9QmbKSoWjENoCQnB6UA",
+            "alias": "clay-oven-on-haight-san-francisco-4",
+            "name": "Clay Oven on Haight",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-F1X6uEQw3Y0oEXLIKjxSA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/clay-oven-on-haight-san-francisco-4?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 12,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.771699,
+                "longitude": -122.430537
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "233 Fillmore St",
+                "address2": null,
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "233 Fillmore St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14152552000",
+            "display_phone": "(415) 255-2000"
+        },
+        {
+            "id": "_3MJz0zgTg35NZGlifqQzQ",
+            "alias": "peking-restaurant-san-francisco",
+            "name": "Peking Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ec3lqDCR9VsVt-7kAOURsQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/peking-restaurant-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 173,
+            "categories": [
+                {
+                    "alias": "shanghainese",
+                    "title": "Shanghainese"
+                },
+                {
+                    "alias": "szechuan",
+                    "title": "Szechuan"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.7540083,
+                "longitude": -122.4782758
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1375 Noriega St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1375 Noriega St",
+                    "San Francisco, CA 94122"
+                ]
+            },
+            "phone": "+14156652199",
+            "display_phone": "(415) 665-2199"
+        },
+        {
+            "id": "ZajCfjeJaHdakadUMYT9Dw",
+            "alias": "golden-kim-tar-san-francisco",
+            "name": "Golden Kim Tar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FcdPz9N_VejhjucW0hje-A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/golden-kim-tar-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 322,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.7818482,
+                "longitude": -122.4170559
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "434 Larkin St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "434 Larkin St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14153468889",
+            "display_phone": "(415) 346-8889"
+        },
+        {
+            "id": "dfoGOvLA7kqE26fhYnWWTg",
+            "alias": "chicos-pizza-san-francisco-4",
+            "name": "Chicos Pizza",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kgGvt0wH25NUrYfFQb3Law/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/chicos-pizza-san-francisco-4?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 68,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.784762,
+                "longitude": -122.4138589
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "468 Ellis St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "468 Ellis St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14157762222",
+            "display_phone": "(415) 776-2222"
+        },
+        {
+            "id": "iwOmbrmxyMNwM9s4Y1R2Bw",
+            "alias": "makli-restaurant-san-francisco",
+            "name": "Makli Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IJW2UmB2sbETuskjebJJ3A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/makli-restaurant-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 249,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.7645336171417,
+                "longitude": -122.431062050997
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "290 Sanchez St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94114",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "290 Sanchez St",
+                    "San Francisco, CA 94114"
+                ]
+            },
+            "phone": "+14158639128",
+            "display_phone": "(415) 863-9128"
+        },
+        {
+            "id": "8-zW9T7u9L-TDVfJyLMOZw",
+            "alias": "royal-indian-cuisine-on-fillmore-san-francisco",
+            "name": "Royal Indian Cuisine on Fillmore",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qYmUbujueepSk0ldOl4Ibg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/royal-indian-cuisine-on-fillmore-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 334,
+            "categories": [
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "himalayan",
+                    "title": "Himalayan/Nepalese"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.78582,
+                "longitude": -122.43301
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1740 Fillmore St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94115",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1740 Fillmore St",
+                    "San Francisco, CA 94115"
+                ]
+            },
+            "phone": "+14155677789",
+            "display_phone": "(415) 567-7789"
+        },
+        {
+            "id": "PGOXqUQDznDNGNHbQMWQcg",
+            "alias": "takara-sushi-san-francisco",
+            "name": "Takara Sushi",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BaRpjTPiF2Em7lL4fAuq8Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/takara-sushi-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 326,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.76058,
+                "longitude": -122.43684
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "4243 18th St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94114",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4243 18th St",
+                    "San Francisco, CA 94114"
+                ]
+            },
+            "phone": "+14156267864",
+            "display_phone": "(415) 626-7864"
+        },
+        {
+            "id": "4_7LJsh5lPWwzrWEkqeZNw",
+            "alias": "may-lee-chinese-restaurant-san-francisco",
+            "name": "May Lee Chinese Restaurant",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BKvLBt3po7KqnNuZ26o9sQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/may-lee-chinese-restaurant-san-francisco?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 244,
+            "categories": [
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.76486,
+                "longitude": -122.46396
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1256 7th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1256 7th Ave",
+                    "San Francisco, CA 94122"
+                ]
+            },
+            "phone": "+14152421006",
+            "display_phone": "(415) 242-1006"
+        },
+        {
+            "id": "Z7EtdtEXrmlMWPYNzJ6u5g",
+            "alias": "primo-pizza-san-francisco-4",
+            "name": "Primo Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hggbqKeEhfAHniO2CWeRKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/primo-pizza-san-francisco-4?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 145,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 37.77956,
+                "longitude": -122.43846
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$",
+            "location": {
+                "address1": "1064 Divisadero St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94115",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1064 Divisadero St",
+                    "San Francisco, CA 94115"
+                ]
+            },
+            "phone": "+14153599300",
+            "display_phone": "(415) 359-9300"
+        },
+        {
+            "id": "kcMcsRZfP3vtBcAFZR11LA",
+            "alias": "sqwers-izakaya-and-sushi-bar-san-francisco-2",
+            "name": "SQwers Izakaya & Sushi Bar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y5Wc4Br2CHisx4f80e50WQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sqwers-izakaya-and-sushi-bar-san-francisco-2?adjust_creative=XptoRmHU_Ntr_lnKvD_Nvg&utm_campaign=yelp_api_v3&utm_medium=api_v3_transactions_search_delivery&utm_source=XptoRmHU_Ntr_lnKvD_Nvg",
+            "review_count": 296,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7819297,
+                "longitude": -122.4512143
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3015 Geary Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3015 Geary Blvd",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14157029979",
+            "display_phone": "(415) 702-9979"
+        }
+    ],
+    "total": 58
+}
