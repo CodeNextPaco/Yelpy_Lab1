@@ -14,6 +14,9 @@
 		84F82DF0287BDAB800E5139A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F82DEE287BDAB800E5139A /* LaunchScreen.storyboard */; };
 		84F82DF8287BDACB00E5139A /* exampleAPI.json in Resources */ = {isa = PBXBuildFile; fileRef = 84F82DF7287BDACB00E5139A /* exampleAPI.json */; };
 		84F82DFD287BDBF700E5139A /* RestaurantsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F82DFC287BDBF700E5139A /* RestaurantsViewController.swift */; };
+		84F82DFF287BE0BE00E5139A /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F82DFE287BE0BE00E5139A /* Restaurant.swift */; };
+		84F82E01287C7AE200E5139A /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F82E00287C7AE200E5139A /* Network.swift */; };
+		84F82E04287C903900E5139A /* YelpStars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F82E03287C903900E5139A /* YelpStars.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		84F82DF1287BDAB800E5139A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84F82DF7287BDACB00E5139A /* exampleAPI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = exampleAPI.json; sourceTree = "<group>"; };
 		84F82DFC287BDBF700E5139A /* RestaurantsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantsViewController.swift; sourceTree = "<group>"; };
+		84F82DFE287BE0BE00E5139A /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
+		84F82E00287C7AE200E5139A /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		84F82E03287C903900E5139A /* YelpStars.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YelpStars.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,7 @@
 		84F82DE2287BDAB600E5139A /* Yelpy_Lab1 */ = {
 			isa = PBXGroup;
 			children = (
+				84F82E02287C903900E5139A /* Extras */,
 				84F82DFB287BDB1A00E5139A /* Models */,
 				84F82DFA287BDB0700E5139A /* ViewControllers */,
 				84F82DF9287BDAFE00E5139A /* Views */,
@@ -90,8 +97,18 @@
 		84F82DFB287BDB1A00E5139A /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				84F82DFE287BE0BE00E5139A /* Restaurant.swift */,
+				84F82E00287C7AE200E5139A /* Network.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		84F82E02287C903900E5139A /* Extras */ = {
+			isa = PBXGroup;
+			children = (
+				84F82E03287C903900E5139A /* YelpStars.swift */,
+			);
+			path = Extras;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -166,7 +183,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84F82E01287C7AE200E5139A /* Network.swift in Sources */,
+				84F82DFF287BE0BE00E5139A /* Restaurant.swift in Sources */,
 				84F82DE4287BDAB600E5139A /* AppDelegate.swift in Sources */,
+				84F82E04287C903900E5139A /* YelpStars.swift in Sources */,
 				84F82DFD287BDBF700E5139A /* RestaurantsViewController.swift in Sources */,
 				84F82DE6287BDAB600E5139A /* SceneDelegate.swift in Sources */,
 			);
